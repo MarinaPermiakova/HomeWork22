@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">HomeWork22</string>
+    <string name="delete">Удалить</string>
+
+    <string name="unit1">Блок 1. Структура проекта</string>
+    <string name="unit2">Блок 2. Структура проекта</string>
+    <string name="unit3">Блок 3. Структура проекта</string>
+    <string name="unit4">Блок 4. Структура проекта</string>
+    <string name="unit5">Блок 5. Структура проекта</string>
+    <string name="unit6">Блок 6. Структура проекта</string>
+    <string name="unit7">Блок 7. Структура проекта</string>
+
+    <string name="home_work1.1">1.1 Введение в Android. Краткий обзор компонентов</string>
+    <string name="home_work1.2">1.2 Введение в Android. Краткий обзор компонентов</string>
+    <string name="home_work1.3">1.3 Введение в Android. Краткий обзор компонентов</string>
+    <string name="home_work2.1">2.1 Введение в Android. Краткий обзор компонентов</string>
+    <string name="home_work2.2">2.2 Введение в Android. Краткий обзор компонентов</string>
+    <string name="home_work3.1">3.1 Введение в Android. Краткий обзор компонентов</string>
+    <string name="home_work3.2">3.2 Введение в Android. Краткий обзор компонентов</string>
+    <string name="home_work3.3">3.3 Введение в Android. Краткий обзор компонентов</string>
+    <string name="home_work4.1">4.1 Введение в Android. Краткий обзор компонентов</string>
+    <string name="home_work4.2">4.2 Введение в Android. Краткий обзор компонентов</string>
+    <string name="home_work5.1">5.1 Введение в Android. Краткий обзор компонентов</string>
+    <string name="home_work5.2">5.2 Введение в Android. Краткий обзор компонентов</string>
+</resources>
